@@ -1,0 +1,46 @@
+Thank you for applying to be a part of our team. We have shortlisted your profile for the next round of Frontend Developer (ReactJS).
+
+As the next step to your evaluation, I am sharing an assignment for you to complete for the evaluation.
+
+I have chalked out the assignment brief below for your reference, please read it carefully:
+
+Do any 1 of the below tasks
+
+Task 1: Mockup
+An excel file "SaudaBookTrades.xlsx" will be shared. Create a UI mockup that showcases the sample data provided inside the Excel Sheet on a web platform. Do not use ReactJS
+
+Task 2: Algorithms
+An excel file "SaudaBookTrades.xlsx" will be shared. Build a ReactJS website that shows 4 data points to the user based on the Excel sheet:
+a) Total quantity bought (Sum of the "Quantity" where "Type" is "BUYER")
+b) Total quantity sold (Sum of the "Quantity" where "Type" is "SELLER")
+c) Average bought price (Average bought price = Accepted Price x Quantity / Total quantity bought)
+d) Average sold price (Average sold price = Accepted Price x Quantity / Total quantity sold)
+
+Task 3: User Interface
+An excel file "SaudaBookTrades.xlsx" will be shared. Build a ReactJS website that can import and showcase the data inside the Excel Sheet.
+
+Task 4: Animation
+Create an animation in a ReatJS app where a cotton plant is blooming
+
+Task 5: API
+Display a list of Futurama characters on a ReactJS web page from the following API: https://api.sampleapis.com/futurama/characters
+
+
+You can download the SaudaBookTrades.xlsx file from here: https://drive.google.com/file/d/13I1QMxD5AEYjlVtQ2cJY6TYJlXG-NM7-/view?usp=sharing
+
+
+How to Submit:
+1. Upload code to GitHub
+2. Share screenshots or a video recording for the tasks
+
+Please do 1 of the above tasks and submit them to us.
+
+Deadline: Oct 25, 2021 - 2:00 pm
+
+We look forward to seeing your work soon!
+
+Please reach out to me for any queries.
+
+Best,
+Vaibhav
+Sauda Tech
