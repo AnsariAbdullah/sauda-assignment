@@ -118,7 +118,7 @@ const App = () => {
 				)}
 			</div>
 			<footer className="footer">
-				Made with love 💛 and coffee ☕
+				Made with pizza 🍕 and coffee ☕
 			</footer>
 		</MainWrapper>
 	);
